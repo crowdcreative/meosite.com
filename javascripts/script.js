@@ -111,6 +111,7 @@
 		
 		if (windowWidth > 1100){
 			$(".ca-menu li").animate({"width":"190px"});
+			$(".ca-menu li").css({"overflow":"visible"});
 		}
 		
 	
