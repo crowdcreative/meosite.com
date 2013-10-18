@@ -2381,8 +2381,8 @@ line-height:16px
     width: 137px;
     z-index: 1;
 	-moz-transform:scale(0) rotate(45deg);
-	-webkit-transform:scale(0) rotate(
-	-ms-transform:scale(0) rotate(
+	-webkit-transform:scale(0) rotate(45deg);
+	-ms-transform:scale(0) rotate(45deg);
 	transition: all 0.3s cubic-bezier(0.680, -0.550, 0.265, 1.550);
 }
 
