@@ -63,10 +63,10 @@
 			
 			var y = $(this).scrollTop();
 		  
-			if (y >= 10) {
-			  $('#endereco').fadeOut();
+			if (y >= 5) {
+			  $('#endereco').hide();
 			} else {
-			  $('#endereco').fadeIn();
+			  $('#endereco').show();
 			}
 		});
 		
