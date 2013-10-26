@@ -2568,7 +2568,7 @@ line-height:16px
 	<section class="intro master-section">
 	
 		<div id="texto-a">
-			<span><i>Rede</i> de profissionais criativos especializados em <i>marketing</i> e <i>web</i> que trabalham na presença e desenvolvimento de marcas e organizações na <i>internet</i>.</span>
+			<span>Somos uma Rede de profissionais criativos;<br/> um e-commerce de produtos e<br/> revista digital de conteúdo didático; <i>especializados na presença de marcas e empresas na internet</i>.</span>
 		</div>
 		
 		
